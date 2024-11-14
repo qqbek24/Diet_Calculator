@@ -1,4 +1,8 @@
-needed to install to create pdf (npm install:)
+# Test App
+
+for how app looks and work, check address https://diet-calculator-f9462f47bf01.herokuapp.com/
+
+## needed to install to create pdf (npm install:)
 
 npm install @react-pdf/renderer file-saver react-icons
 
