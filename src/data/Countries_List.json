@@ -1,0 +1,1182 @@
+[
+	{
+		"id": 1,
+		"Country_EN": "Poland",
+		"Kraj": "Polska",
+		"Waluta": "PLN",
+		"Kwota_diety": 45,
+		"Kwota_limitu_na_nocleg": 10,
+		"Code_ISO": "PL",
+		"CountryNames": "Polska/Poland"
+	},
+	{
+		"id": 2,
+		"Country_EN": "Afghanistan",
+		"Kraj": "Afganistan",
+		"Waluta": "EUR",
+		"Kwota_diety": 47,
+		"Kwota_limitu_na_nocleg": 140,
+		"Code_ISO": "AF",
+		"CountryNames": "Afganistan/Afghanistan"
+	},
+	{
+		"id": 3,
+		"Country_EN": "Albania",
+		"Kraj": "Albania",
+		"Waluta": "EUR",
+		"Kwota_diety": 41,
+		"Kwota_limitu_na_nocleg": 120,
+		"Code_ISO": "AL",
+		"CountryNames": "Albania/Albania"
+	},
+	{
+		"id": 4,
+		"Country_EN": "Algeria",
+		"Kraj": "Algieria",
+		"Waluta": "EUR",
+		"Kwota_diety": 50,
+		"Kwota_limitu_na_nocleg": 200,
+		"Code_ISO": "DZ",
+		"CountryNames": "Algieria/Algeria"
+	},
+	{
+		"id": 5,
+		"Country_EN": "Andorra",
+		"Kraj": "Andora",
+		"Waluta": "EUR",
+		"Kwota_diety": 50,
+		"Kwota_limitu_na_nocleg": 200,
+		"Code_ISO": "AD",
+		"CountryNames": "Andora/Andorra"
+	},
+	{
+		"id": 6,
+		"Country_EN": "Angola",
+		"Kraj": "Angola",
+		"Waluta": "USD",
+		"Kwota_diety": 61,
+		"Kwota_limitu_na_nocleg": 180,
+		"Code_ISO": "AO",
+		"CountryNames": "Angola/Angola"
+	},
+	{
+		"id": 7,
+		"Country_EN": "Saudi Arabia",
+		"Kraj": "Arabia Saudyjska",
+		"Waluta": "EUR",
+		"Kwota_diety": 50,
+		"Kwota_limitu_na_nocleg": 200,
+		"Code_ISO": "SA",
+		"CountryNames": "Arabia Saudyjska/Saudi Arabia"
+	},
+	{
+		"id": 8,
+		"Country_EN": "Argentina",
+		"Kraj": "Argentyna",
+		"Waluta": "USD",
+		"Kwota_diety": 50,
+		"Kwota_limitu_na_nocleg": 150,
+		"Code_ISO": "AR",
+		"CountryNames": "Argentyna/Argentina"
+	},
+	{
+		"id": 9,
+		"Country_EN": "Armenia",
+		"Kraj": "Armenia",
+		"Waluta": "EUR",
+		"Kwota_diety": 42,
+		"Kwota_limitu_na_nocleg": 145,
+		"Code_ISO": "AM",
+		"CountryNames": "Armenia/Armenia"
+	},
+	{
+		"id": 10,
+		"Country_EN": "Australia",
+		"Kraj": "Australia",
+		"Waluta": "AUD",
+		"Kwota_diety": 95,
+		"Kwota_limitu_na_nocleg": 270,
+		"Code_ISO": "AU",
+		"CountryNames": "Australia/Australia"
+	},
+	{
+		"id": 11,
+		"Country_EN": "Austria",
+		"Kraj": "Austria",
+		"Waluta": "EUR",
+		"Kwota_diety": 57,
+		"Kwota_limitu_na_nocleg": 150,
+		"Code_ISO": "AT",
+		"CountryNames": "Austria/Austria"
+	},
+	{
+		"id": 12,
+		"Country_EN": "Azerbaijan",
+		"Kraj": "Azerbejdżan",
+		"Waluta": "EUR",
+		"Kwota_diety": 43,
+		"Kwota_limitu_na_nocleg": 150,
+		"Code_ISO": "AZ",
+		"CountryNames": "Azerbejdżan/Azerbaijan"
+	},
+	{
+		"id": 13,
+		"Country_EN": "Bangladesh",
+		"Kraj": "Bangladesz",
+		"Waluta": "USD",
+		"Kwota_diety": 50,
+		"Kwota_limitu_na_nocleg": 120,
+		"Code_ISO": "BD",
+		"CountryNames": "Bangladesz/Bangladesh"
+	},
+	{
+		"id": 14,
+		"Country_EN": "Belgium",
+		"Kraj": "Belgia",
+		"Waluta": "EUR",
+		"Kwota_diety": 55,
+		"Kwota_limitu_na_nocleg": 200,
+		"Code_ISO": "BE",
+		"CountryNames": "Belgia/Belgium"
+	},
+	{
+		"id": 15,
+		"Country_EN": "Belarus",
+		"Kraj": "Białoruś",
+		"Waluta": "EUR",
+		"Kwota_diety": 42,
+		"Kwota_limitu_na_nocleg": 130,
+		"Code_ISO": "BY",
+		"CountryNames": "Białoruś/Belarus"
+	},
+	{
+		"id": 16,
+		"Country_EN": "Bosnia and Herzegovina",
+		"Kraj": "Bośnia i Hercegowina",
+		"Waluta": "EUR",
+		"Kwota_diety": 41,
+		"Kwota_limitu_na_nocleg": 100,
+		"Code_ISO": "BA",
+		"CountryNames": "Bośnia i Hercegowina/Bosnia and Herzegovina"
+	},
+	{
+		"id": 17,
+		"Country_EN": "Brazil",
+		"Kraj": "Brazylia",
+		"Waluta": "EUR",
+		"Kwota_diety": 43,
+		"Kwota_limitu_na_nocleg": 120,
+		"Code_ISO": "BR",
+		"CountryNames": "Brazylia/Brazil"
+	},
+	{
+		"id": 18,
+		"Country_EN": "Bulgaria",
+		"Kraj": "Bułgaria",
+		"Waluta": "EUR",
+		"Kwota_diety": 40,
+		"Kwota_limitu_na_nocleg": 120,
+		"Code_ISO": "BG",
+		"CountryNames": "Bułgaria/Bulgaria"
+	},
+	{
+		"id": 19,
+		"Country_EN": "Chile",
+		"Kraj": "Chile",
+		"Waluta": "USD",
+		"Kwota_diety": 60,
+		"Kwota_limitu_na_nocleg": 120,
+		"Code_ISO": "CL",
+		"CountryNames": "Chile/Chile"
+	},
+	{
+		"id": 20,
+		"Country_EN": "China",
+		"Kraj": "Chiny",
+		"Waluta": "EUR",
+		"Kwota_diety": 55,
+		"Kwota_limitu_na_nocleg": 170,
+		"Code_ISO": "CN",
+		"CountryNames": "Chiny/China"
+	},
+	{
+		"id": 21,
+		"Country_EN": "Croatia",
+		"Kraj": "Chorwacja",
+		"Waluta": "EUR",
+		"Kwota_diety": 42,
+		"Kwota_limitu_na_nocleg": 125,
+		"Code_ISO": "HR",
+		"CountryNames": "Chorwacja/Croatia"
+	},
+	{
+		"id": 22,
+		"Country_EN": "Cyprus",
+		"Kraj": "Cypr",
+		"Waluta": "EUR",
+		"Kwota_diety": 43,
+		"Kwota_limitu_na_nocleg": 160,
+		"Code_ISO": "CY",
+		"CountryNames": "Cypr/Cyprus"
+	},
+	{
+		"id": 23,
+		"Country_EN": "Montenegro",
+		"Kraj": "Czarnogóra",
+		"Waluta": "EUR",
+		"Kwota_diety": 40,
+		"Kwota_limitu_na_nocleg": 110,
+		"Code_ISO": "ME",
+		"CountryNames": "Czarnogóra/Montenegro"
+	},
+	{
+		"id": 24,
+		"Country_EN": "Czechia",
+		"Kraj": "Czechy",
+		"Waluta": "EUR",
+		"Kwota_diety": 41,
+		"Kwota_limitu_na_nocleg": 120,
+		"Code_ISO": "CZ",
+		"CountryNames": "Czechy/Czechia"
+	},
+	{
+		"id": 25,
+		"Country_EN": "Denmark",
+		"Kraj": "Dania",
+		"Waluta": "DKK",
+		"Kwota_diety": 446,
+		"Kwota_limitu_na_nocleg": 1430,
+		"Code_ISO": "DK",
+		"CountryNames": "Dania/Denmark"
+	},
+	{
+		"id": 26,
+		"Country_EN": "the Democratic Republic of the Congo",
+		"Kraj": "Demokratyczna Republika Konga",
+		"Waluta": "USD",
+		"Kwota_diety": 66,
+		"Kwota_limitu_na_nocleg": 220,
+		"Code_ISO": "CD",
+		"CountryNames": "Demokratyczna Republika Konga/the Democratic Republic of the Congo"
+	},
+	{
+		"id": 27,
+		"Country_EN": "Egypt",
+		"Kraj": "Egipt",
+		"Waluta": "USD",
+		"Kwota_diety": 55,
+		"Kwota_limitu_na_nocleg": 150,
+		"Code_ISO": "EG",
+		"CountryNames": "Egipt/Egypt"
+	},
+	{
+		"id": 28,
+		"Country_EN": "Ecuador",
+		"Kraj": "Ekwador",
+		"Waluta": "USD",
+		"Kwota_diety": 44,
+		"Kwota_limitu_na_nocleg": 110,
+		"Code_ISO": "EC",
+		"CountryNames": "Ekwador/Ecuador"
+	},
+	{
+		"id": 29,
+		"Country_EN": "Estonia",
+		"Kraj": "Estonia",
+		"Waluta": "EUR",
+		"Kwota_diety": 45,
+		"Kwota_limitu_na_nocleg": 110,
+		"Code_ISO": "EE",
+		"CountryNames": "Estonia/Estonia"
+	},
+	{
+		"id": 30,
+		"Country_EN": "Ethiopia",
+		"Kraj": "Etiopia",
+		"Waluta": "USD",
+		"Kwota_diety": 55,
+		"Kwota_limitu_na_nocleg": 300,
+		"Code_ISO": "ET",
+		"CountryNames": "Etiopia/Ethiopia"
+	},
+	{
+		"id": 31,
+		"Country_EN": "Finland",
+		"Kraj": "Finlandia",
+		"Waluta": "EUR",
+		"Kwota_diety": 53,
+		"Kwota_limitu_na_nocleg": 180,
+		"Code_ISO": "FI",
+		"CountryNames": "Finlandia/Finland"
+	},
+	{
+		"id": 32,
+		"Country_EN": "France",
+		"Kraj": "Francja",
+		"Waluta": "EUR",
+		"Kwota_diety": 55,
+		"Kwota_limitu_na_nocleg": 200,
+		"Code_ISO": "FR",
+		"CountryNames": "Francja/France"
+	},
+	{
+		"id": 33,
+		"Country_EN": "Greece",
+		"Kraj": "Grecja",
+		"Waluta": "EUR",
+		"Kwota_diety": 50,
+		"Kwota_limitu_na_nocleg": 160,
+		"Code_ISO": "GR",
+		"CountryNames": "Grecja/Greece"
+	},
+	{
+		"id": 34,
+		"Country_EN": "Georgia",
+		"Kraj": "Gruzja",
+		"Waluta": "EUR",
+		"Kwota_diety": 48,
+		"Kwota_limitu_na_nocleg": 160,
+		"Code_ISO": "GE",
+		"CountryNames": "Gruzja/Georgia"
+	},
+	{
+		"id": 35,
+		"Country_EN": "Spain",
+		"Kraj": "Hiszpania",
+		"Waluta": "EUR",
+		"Kwota_diety": 50,
+		"Kwota_limitu_na_nocleg": 200,
+		"Code_ISO": "ES",
+		"CountryNames": "Hiszpania/Spain"
+	},
+	{
+		"id": 36,
+		"Country_EN": "Netherlands",
+		"Kraj": "Holandia",
+		"Waluta": "EUR",
+		"Kwota_diety": 50,
+		"Kwota_limitu_na_nocleg": 150,
+		"Code_ISO": "NL",
+		"CountryNames": "Holandia/Netherlands"
+	},
+	{
+		"id": 37,
+		"Country_EN": "India",
+		"Kraj": "Indie",
+		"Waluta": "EUR",
+		"Kwota_diety": 42,
+		"Kwota_limitu_na_nocleg": 210,
+		"Code_ISO": "IN",
+		"CountryNames": "Indie/India"
+	},
+	{
+		"id": 38,
+		"Country_EN": "Indonesia",
+		"Kraj": "Indonezja",
+		"Waluta": "EUR",
+		"Kwota_diety": 41,
+		"Kwota_limitu_na_nocleg": 110,
+		"Code_ISO": "ID",
+		"CountryNames": "Indonezja/Indonesia"
+	},
+	{
+		"id": 39,
+		"Country_EN": "Iraq",
+		"Kraj": "Irak",
+		"Waluta": "USD",
+		"Kwota_diety": 60,
+		"Kwota_limitu_na_nocleg": 120,
+		"Code_ISO": "IQ",
+		"CountryNames": "Irak/Iraq"
+	},
+	{
+		"id": 40,
+		"Country_EN": "Iran",
+		"Kraj": "Iran",
+		"Waluta": "EUR",
+		"Kwota_diety": 41,
+		"Kwota_limitu_na_nocleg": 95,
+		"Code_ISO": "IR",
+		"CountryNames": "Iran/Iran"
+	},
+	{
+		"id": 41,
+		"Country_EN": "Ireland",
+		"Kraj": "Irlandia",
+		"Waluta": "EUR",
+		"Kwota_diety": 52,
+		"Kwota_limitu_na_nocleg": 160,
+		"Code_ISO": "IE",
+		"CountryNames": "Irlandia/Ireland"
+	},
+	{
+		"id": 42,
+		"Country_EN": "Iceland",
+		"Kraj": "Islandia",
+		"Waluta": "EUR",
+		"Kwota_diety": 56,
+		"Kwota_limitu_na_nocleg": 160,
+		"Code_ISO": "IS",
+		"CountryNames": "Islandia/Iceland"
+	},
+	{
+		"id": 43,
+		"Country_EN": "Israel",
+		"Kraj": "Izrael",
+		"Waluta": "EUR",
+		"Kwota_diety": 70,
+		"Kwota_limitu_na_nocleg": 200,
+		"Code_ISO": "IL",
+		"CountryNames": "Izrael/Israel"
+	},
+	{
+		"id": 44,
+		"Country_EN": "Japan",
+		"Kraj": "Japonia",
+		"Waluta": "JPY",
+		"Kwota_diety": 7532,
+		"Kwota_limitu_na_nocleg": 22000,
+		"Code_ISO": "JP",
+		"CountryNames": "Japonia/Japan"
+	},
+	{
+		"id": 45,
+		"Country_EN": "Yemen",
+		"Kraj": "Jemen",
+		"Waluta": "USD",
+		"Kwota_diety": 48,
+		"Kwota_limitu_na_nocleg": 160,
+		"Code_ISO": "YE",
+		"CountryNames": "Jemen/Yemen"
+	},
+	{
+		"id": 46,
+		"Country_EN": "Jordan",
+		"Kraj": "Jordania",
+		"Waluta": "EUR",
+		"Kwota_diety": 50,
+		"Kwota_limitu_na_nocleg": 130,
+		"Code_ISO": "JO",
+		"CountryNames": "Jordania/Jordan"
+	},
+	{
+		"id": 47,
+		"Country_EN": "Cambodia",
+		"Kraj": "Kambodża",
+		"Waluta": "USD",
+		"Kwota_diety": 45,
+		"Kwota_limitu_na_nocleg": 100,
+		"Code_ISO": "KH",
+		"CountryNames": "Kambodża/Cambodia"
+	},
+	{
+		"id": 48,
+		"Country_EN": "Canada",
+		"Kraj": "Kanada",
+		"Waluta": "CAD",
+		"Kwota_diety": 71,
+		"Kwota_limitu_na_nocleg": 190,
+		"Code_ISO": "CA",
+		"CountryNames": "Kanada/Canada"
+	},
+	{
+		"id": 49,
+		"Country_EN": "Qatar",
+		"Kraj": "Katar",
+		"Waluta": "EUR",
+		"Kwota_diety": 41,
+		"Kwota_limitu_na_nocleg": 200,
+		"Code_ISO": "QA",
+		"CountryNames": "Katar/Qatar"
+	},
+	{
+		"id": 50,
+		"Country_EN": "Kazakhstan",
+		"Kraj": "Kazachstan",
+		"Waluta": "EUR",
+		"Kwota_diety": 45,
+		"Kwota_limitu_na_nocleg": 155,
+		"Code_ISO": "KZ",
+		"CountryNames": "Kazachstan/Kazakhstan"
+	},
+	{
+		"id": 51,
+		"Country_EN": "Kenya",
+		"Kraj": "Kenia",
+		"Waluta": "EUR",
+		"Kwota_diety": 41,
+		"Kwota_limitu_na_nocleg": 150,
+		"Code_ISO": "KE",
+		"CountryNames": "Kenia/Kenya"
+	},
+	{
+		"id": 52,
+		"Country_EN": "Kyrgyzstan",
+		"Kraj": "Kirgistan",
+		"Waluta": "USD",
+		"Kwota_diety": 41,
+		"Kwota_limitu_na_nocleg": 150,
+		"Code_ISO": "KG",
+		"CountryNames": "Kirgistan/Kyrgyzstan"
+	},
+	{
+		"id": 53,
+		"Country_EN": "Colombia",
+		"Kraj": "Kolumbia",
+		"Waluta": "USD",
+		"Kwota_diety": 49,
+		"Kwota_limitu_na_nocleg": 120,
+		"Code_ISO": "CO",
+		"CountryNames": "Kolumbia/Colombia"
+	},
+	{
+		"id": 54,
+		"Country_EN": "Congo",
+		"Kraj": "Kongo",
+		"Waluta": "USD",
+		"Kwota_diety": 66,
+		"Kwota_limitu_na_nocleg": 220,
+		"Code_ISO": "CG",
+		"CountryNames": "Kongo/Congo"
+	},
+	{
+		"id": 55,
+		"Country_EN": "South Korea (the Republic of Korea)",
+		"Kraj": "Korea Południowa",
+		"Waluta": "EUR",
+		"Kwota_diety": 46,
+		"Kwota_limitu_na_nocleg": 170,
+		"Code_ISO": "KR",
+		"CountryNames": "Korea Południowa/South Korea (the Republic of Korea)"
+	},
+	{
+		"id": 56,
+		"Country_EN": "North Korea (the Democratic People's Republic of Korea)",
+		"Kraj": "Korea Północna",
+		"Waluta": "EUR",
+		"Kwota_diety": 48,
+		"Kwota_limitu_na_nocleg": 170,
+		"Code_ISO": "KP",
+		"CountryNames": "Korea Północna/North Korea (the Democratic People's Republic of Korea)"
+	},
+	{
+		"id": 57,
+		"Country_EN": "Costa Rica",
+		"Kraj": "Kostaryka",
+		"Waluta": "USD",
+		"Kwota_diety": 50,
+		"Kwota_limitu_na_nocleg": 140,
+		"Code_ISO": "CR",
+		"CountryNames": "Kostaryka/Costa Rica"
+	},
+	{
+		"id": 58,
+		"Country_EN": "Cuba",
+		"Kraj": "Kuba",
+		"Waluta": "EUR",
+		"Kwota_diety": 50,
+		"Kwota_limitu_na_nocleg": 140,
+		"Code_ISO": "CU",
+		"CountryNames": "Kuba/Cuba"
+	},
+	{
+		"id": 59,
+		"Country_EN": "Kuwait",
+		"Kraj": "Kuwejt",
+		"Waluta": "EUR",
+		"Kwota_diety": 39,
+		"Kwota_limitu_na_nocleg": 200,
+		"Code_ISO": "KW",
+		"CountryNames": "Kuwejt/Kuwait"
+	},
+	{
+		"id": 60,
+		"Country_EN": "Lao People's Democratic Republic",
+		"Kraj": "Laos",
+		"Waluta": "USD",
+		"Kwota_diety": 54,
+		"Kwota_limitu_na_nocleg": 100,
+		"Code_ISO": "LA",
+		"CountryNames": "Laos/Lao People's Democratic Republic"
+	},
+	{
+		"id": 61,
+		"Country_EN": "Lebanon",
+		"Kraj": "Liban",
+		"Waluta": "USD",
+		"Kwota_diety": 57,
+		"Kwota_limitu_na_nocleg": 150,
+		"Code_ISO": "LB",
+		"CountryNames": "Liban/Lebanon"
+	},
+	{
+		"id": 62,
+		"Country_EN": "Libya",
+		"Kraj": "Libia",
+		"Waluta": "EUR",
+		"Kwota_diety": 52,
+		"Kwota_limitu_na_nocleg": 100,
+		"Code_ISO": "LY",
+		"CountryNames": "Libia/Libya"
+	},
+	{
+		"id": 63,
+		"Country_EN": "Liechtenstein",
+		"Kraj": "Liechtenstein",
+		"Waluta": "CHF",
+		"Kwota_diety": 88,
+		"Kwota_limitu_na_nocleg": 220,
+		"Code_ISO": "LI",
+		"CountryNames": "Liechtenstein/Liechtenstein"
+	},
+	{
+		"id": 64,
+		"Country_EN": "Lithuania",
+		"Kraj": "Litwa",
+		"Waluta": "EUR",
+		"Kwota_diety": 45,
+		"Kwota_limitu_na_nocleg": 150,
+		"Code_ISO": "LT",
+		"CountryNames": "Litwa/Lithuania"
+	},
+	{
+		"id": 65,
+		"Country_EN": "Luxembourg",
+		"Kraj": "Luksemburg",
+		"Waluta": "EUR",
+		"Kwota_diety": 55,
+		"Kwota_limitu_na_nocleg": 200,
+		"Code_ISO": "LU",
+		"CountryNames": "Luksemburg/Luxembourg"
+	},
+	{
+		"id": 66,
+		"Country_EN": "Latvia",
+		"Kraj": "Łotwa",
+		"Waluta": "EUR",
+		"Kwota_diety": 57,
+		"Kwota_limitu_na_nocleg": 132,
+		"Code_ISO": "LV",
+		"CountryNames": "Łotwa/Latvia"
+	},
+	{
+		"id": 67,
+		"Country_EN": "Republic of North Macedonia",
+		"Kraj": "Macedonia Północna",
+		"Waluta": "EUR",
+		"Kwota_diety": 43,
+		"Kwota_limitu_na_nocleg": 138,
+		"Code_ISO": "MK",
+		"CountryNames": "Macedonia Północna/Republic of North Macedonia"
+	},
+	{
+		"id": 68,
+		"Country_EN": "Malaysia",
+		"Kraj": "Malezja",
+		"Waluta": "EUR",
+		"Kwota_diety": 41,
+		"Kwota_limitu_na_nocleg": 140,
+		"Code_ISO": "MY",
+		"CountryNames": "Malezja/Malaysia"
+	},
+	{
+		"id": 69,
+		"Country_EN": "Malta",
+		"Kraj": "Malta",
+		"Waluta": "EUR",
+		"Kwota_diety": 43,
+		"Kwota_limitu_na_nocleg": 180,
+		"Code_ISO": "MT",
+		"CountryNames": "Malta/Malta"
+	},
+	{
+		"id": 70,
+		"Country_EN": "Morocco",
+		"Kraj": "Maroko",
+		"Waluta": "EUR",
+		"Kwota_diety": 41,
+		"Kwota_limitu_na_nocleg": 130,
+		"Code_ISO": "MA",
+		"CountryNames": "Maroko/Morocco"
+	},
+	{
+		"id": 71,
+		"Country_EN": "Mexico",
+		"Kraj": "Meksyk",
+		"Waluta": "USD",
+		"Kwota_diety": 58,
+		"Kwota_limitu_na_nocleg": 154,
+		"Code_ISO": "MX",
+		"CountryNames": "Meksyk/Mexico"
+	},
+	{
+		"id": 72,
+		"Country_EN": "Moldova",
+		"Kraj": "Mołdawia",
+		"Waluta": "EUR",
+		"Kwota_diety": 45,
+		"Kwota_limitu_na_nocleg": 94,
+		"Code_ISO": "MD",
+		"CountryNames": "Mołdawia/Moldova"
+	},
+	{
+		"id": 73,
+		"Country_EN": "Monaco",
+		"Kraj": "Monako",
+		"Waluta": "EUR",
+		"Kwota_diety": 55,
+		"Kwota_limitu_na_nocleg": 200,
+		"Code_ISO": "MC",
+		"CountryNames": "Monako/Monaco"
+	},
+	{
+		"id": 74,
+		"Country_EN": "Mongolia",
+		"Kraj": "Mongolia",
+		"Waluta": "EUR",
+		"Kwota_diety": 45,
+		"Kwota_limitu_na_nocleg": 154,
+		"Code_ISO": "MN",
+		"CountryNames": "Mongolia/Mongolia"
+	},
+	{
+		"id": 75,
+		"Country_EN": "Germany",
+		"Kraj": "Niemcy",
+		"Waluta": "EUR",
+		"Kwota_diety": 49,
+		"Kwota_limitu_na_nocleg": 170,
+		"Code_ISO": "DE",
+		"CountryNames": "Niemcy/Germany"
+	},
+	{
+		"id": 76,
+		"Country_EN": "Nigeria",
+		"Kraj": "Nigeria",
+		"Waluta": "EUR",
+		"Kwota_diety": 46,
+		"Kwota_limitu_na_nocleg": 240,
+		"Code_ISO": "NG",
+		"CountryNames": "Nigeria/Nigeria"
+	},
+	{
+		"id": 77,
+		"Country_EN": "Norway",
+		"Kraj": "Norwegia",
+		"Waluta": "NOK",
+		"Kwota_diety": 496,
+		"Kwota_limitu_na_nocleg": 1650,
+		"Code_ISO": "NO",
+		"CountryNames": "Norwegia/Norway"
+	},
+	{
+		"id": 78,
+		"Country_EN": "New Zealand",
+		"Kraj": "Nowa Zelandia",
+		"Waluta": "USD",
+		"Kwota_diety": 58,
+		"Kwota_limitu_na_nocleg": 180,
+		"Code_ISO": "NZ",
+		"CountryNames": "Nowa Zelandia/New Zealand"
+	},
+	{
+		"id": 79,
+		"Country_EN": "Oman",
+		"Kraj": "Oman",
+		"Waluta": "EUR",
+		"Kwota_diety": 40,
+		"Kwota_limitu_na_nocleg": 240,
+		"Code_ISO": "OM",
+		"CountryNames": "Oman/Oman"
+	},
+	{
+		"id": 80,
+		"Country_EN": "Pakistan",
+		"Kraj": "Pakistan",
+		"Waluta": "EUR",
+		"Kwota_diety": 38,
+		"Kwota_limitu_na_nocleg": 200,
+		"Code_ISO": "PK",
+		"CountryNames": "Pakistan/Pakistan"
+	},
+	{
+		"id": 81,
+		"Country_EN": "Palestine",
+		"Kraj": "Palestyna",
+		"Waluta": "EUR",
+		"Kwota_diety": 70,
+		"Kwota_limitu_na_nocleg": 200,
+		"Code_ISO": "PS",
+		"CountryNames": "Palestyna/Palestine"
+	},
+	{
+		"id": 82,
+		"Country_EN": "Panama",
+		"Kraj": "Panama",
+		"Waluta": "USD",
+		"Kwota_diety": 52,
+		"Kwota_limitu_na_nocleg": 140,
+		"Code_ISO": "PA",
+		"CountryNames": "Panama/Panama"
+	},
+	{
+		"id": 83,
+		"Country_EN": "Peru",
+		"Kraj": "Peru",
+		"Waluta": "USD",
+		"Kwota_diety": 50,
+		"Kwota_limitu_na_nocleg": 150,
+		"Code_ISO": "PE",
+		"CountryNames": "Peru/Peru"
+	},
+	{
+		"id": 84,
+		"Country_EN": "South Africa",
+		"Kraj": "Republika Południowej Afryki",
+		"Waluta": "USD",
+		"Kwota_diety": 52,
+		"Kwota_limitu_na_nocleg": 275,
+		"Code_ISO": "ZA",
+		"CountryNames": "Republika Południowej Afryki/South Africa"
+	},
+	{
+		"id": 85,
+		"Country_EN": "Portugal",
+		"Kraj": "Portugalia",
+		"Waluta": "EUR",
+		"Kwota_diety": 49,
+		"Kwota_limitu_na_nocleg": 150,
+		"Code_ISO": "PT",
+		"CountryNames": "Portugalia/Portugal"
+	},
+	{
+		"id": 86,
+		"Country_EN": "Russian Federation",
+		"Kraj": "Rosja",
+		"Waluta": "EUR",
+		"Kwota_diety": 48,
+		"Kwota_limitu_na_nocleg": 200,
+		"Code_ISO": "RU",
+		"CountryNames": "Rosja/Russian Federation"
+	},
+	{
+		"id": 87,
+		"Country_EN": "Romania",
+		"Kraj": "Rumunia",
+		"Waluta": "EUR",
+		"Kwota_diety": 42,
+		"Kwota_limitu_na_nocleg": 110,
+		"Code_ISO": "RO",
+		"CountryNames": "Rumunia/Romania"
+	},
+	{
+		"id": 88,
+		"Country_EN": "San Marino",
+		"Kraj": "San Marino",
+		"Waluta": "EUR",
+		"Kwota_diety": 53,
+		"Kwota_limitu_na_nocleg": 192,
+		"Code_ISO": "SM",
+		"CountryNames": "San Marino/San Marino"
+	},
+	{
+		"id": 89,
+		"Country_EN": "Senegal",
+		"Kraj": "Senegal",
+		"Waluta": "EUR",
+		"Kwota_diety": 44,
+		"Kwota_limitu_na_nocleg": 120,
+		"Code_ISO": "SN",
+		"CountryNames": "Senegal/Senegal"
+	},
+	{
+		"id": 90,
+		"Country_EN": "Serbia",
+		"Kraj": "Serbia",
+		"Waluta": "EUR",
+		"Kwota_diety": 40,
+		"Kwota_limitu_na_nocleg": 110,
+		"Code_ISO": "RS",
+		"CountryNames": "Serbia/Serbia"
+	},
+	{
+		"id": 91,
+		"Country_EN": "Singapore",
+		"Kraj": "Singapur",
+		"Waluta": "USD",
+		"Kwota_diety": 56,
+		"Kwota_limitu_na_nocleg": 230,
+		"Code_ISO": "SG",
+		"CountryNames": "Singapur/Singapore"
+	},
+	{
+		"id": 92,
+		"Country_EN": "Slovakia",
+		"Kraj": "Słowacja",
+		"Waluta": "EUR",
+		"Kwota_diety": 47,
+		"Kwota_limitu_na_nocleg": 132,
+		"Code_ISO": "SK",
+		"CountryNames": "Słowacja/Slovakia"
+	},
+	{
+		"id": 93,
+		"Country_EN": "Slovenia",
+		"Kraj": "Słowenia",
+		"Waluta": "EUR",
+		"Kwota_diety": 45,
+		"Kwota_limitu_na_nocleg": 143,
+		"Code_ISO": "SI",
+		"CountryNames": "Słowenia/Slovenia"
+	},
+	{
+		"id": 94.1,
+		"Country_EN": "United States of America",
+		"Kraj": "Stany Zjednoczone Ameryki (USA)",
+		"Waluta": "USD",
+		"Kwota_diety": 59,
+		"Kwota_limitu_na_nocleg": 200,
+		"Code_ISO": "US",
+		"CountryNames": "Stany Zjednoczone Ameryki (USA)/United States of America"
+	},
+	{
+		"id": 94.2,
+		"Country_EN": "United States of America, Nowy Jork",
+		"Kraj": "Stany Zjednoczone Ameryki (USA), Nowy Jork",
+		"Waluta": "USD",
+		"Kwota_diety": 59,
+		"Kwota_limitu_na_nocleg": 350,
+		"Code_ISO": "US",
+		"CountryNames": "Stany Zjednoczone Ameryki (USA)/United States of America, Nowy Jork"
+	},
+	{
+		"id": 94.3,
+		"Country_EN": "United States of America, Waszyngton",
+		"Kraj": "Stany Zjednoczone Ameryki (USA), Waszyngton",
+		"Waluta": "USD",
+		"Kwota_diety": 59,
+		"Kwota_limitu_na_nocleg": 300,
+		"Code_ISO": "US",
+		"CountryNames": "Stany Zjednoczone Ameryki (USA)/United States of America, Waszyngton"
+	},
+	{
+		"id": 95,
+		"Country_EN": "Syrian Arab Republic",
+		"Kraj": "Syria",
+		"Waluta": "USD",
+		"Kwota_diety": 50,
+		"Kwota_limitu_na_nocleg": 150,
+		"Code_ISO": "SY",
+		"CountryNames": "Syria/Syrian Arab Republic"
+	},
+	{
+		"id": 96,
+		"Country_EN": "Switzerland",
+		"Kraj": "Szwajcaria",
+		"Waluta": "CHF",
+		"Kwota_diety": 88,
+		"Kwota_limitu_na_nocleg": 220,
+		"Code_ISO": "CH",
+		"CountryNames": "Szwajcaria/Switzerland"
+	},
+	{
+		"id": 97,
+		"Country_EN": "Sweden",
+		"Kraj": "Szwecja",
+		"Waluta": "SEK",
+		"Kwota_diety": 510,
+		"Kwota_limitu_na_nocleg": 2000,
+		"Code_ISO": "SE",
+		"CountryNames": "Szwecja/Sweden"
+	},
+	{
+		"id": 98,
+		"Country_EN": "Tajikistan",
+		"Kraj": "Tadżykistan",
+		"Waluta": "EUR",
+		"Kwota_diety": 41,
+		"Kwota_limitu_na_nocleg": 140,
+		"Code_ISO": "TJ",
+		"CountryNames": "Tadżykistan/Tajikistan"
+	},
+	{
+		"id": 99,
+		"Country_EN": "Thailand",
+		"Kraj": "Tajlandia",
+		"Waluta": "USD",
+		"Kwota_diety": 42,
+		"Kwota_limitu_na_nocleg": 110,
+		"Code_ISO": "TH",
+		"CountryNames": "Tajlandia/Thailand"
+	},
+	{
+		"id": 100,
+		"Country_EN": "Tanzania",
+		"Kraj": "Tanzania",
+		"Waluta": "USD",
+		"Kwota_diety": 53,
+		"Kwota_limitu_na_nocleg": 150,
+		"Code_ISO": "TZ",
+		"CountryNames": "Tanzania/Tanzania"
+	},
+	{
+		"id": 101,
+		"Country_EN": "Tunisia",
+		"Kraj": "Tunezja",
+		"Waluta": "EUR",
+		"Kwota_diety": 37,
+		"Kwota_limitu_na_nocleg": 100,
+		"Code_ISO": "TN",
+		"CountryNames": "Tunezja/Tunisia"
+	},
+	{
+		"id": 102,
+		"Country_EN": "Turkey",
+		"Kraj": "Turcja",
+		"Waluta": "USD",
+		"Kwota_diety": 53,
+		"Kwota_limitu_na_nocleg": 185,
+		"Code_ISO": "TR",
+		"CountryNames": "Turcja/Turkey"
+	},
+	{
+		"id": 103,
+		"Country_EN": "Turkmenistan",
+		"Kraj": "Turkmenistan",
+		"Waluta": "EUR",
+		"Kwota_diety": 47,
+		"Kwota_limitu_na_nocleg": 90,
+		"Code_ISO": "TM",
+		"CountryNames": "Turkmenistan/Turkmenistan"
+	},
+	{
+		"id": 104,
+		"Country_EN": "Ukraine",
+		"Kraj": "Ukraina",
+		"Waluta": "EUR",
+		"Kwota_diety": 41,
+		"Kwota_limitu_na_nocleg": 180,
+		"Code_ISO": "UA",
+		"CountryNames": "Ukraina/Ukraine"
+	},
+	{
+		"id": 105,
+		"Country_EN": "Uruguay",
+		"Kraj": "Urugwaj",
+		"Waluta": "USD",
+		"Kwota_diety": 50,
+		"Kwota_limitu_na_nocleg": 80,
+		"Code_ISO": "UY",
+		"CountryNames": "Urugwaj/Uruguay"
+	},
+	{
+		"id": 106,
+		"Country_EN": "Uzbekistan",
+		"Kraj": "Uzbekistan",
+		"Waluta": "EUR",
+		"Kwota_diety": 41,
+		"Kwota_limitu_na_nocleg": 140,
+		"Code_ISO": "UZ",
+		"CountryNames": "Uzbekistan/Uzbekistan"
+	},
+	{
+		"id": 107,
+		"Country_EN": "Holy See",
+		"Kraj": "Watykan",
+		"Waluta": "EUR",
+		"Kwota_diety": 53,
+		"Kwota_limitu_na_nocleg": 192,
+		"Code_ISO": "VA",
+		"CountryNames": "Watykan/Holy See"
+	},
+	{
+		"id": 108,
+		"Country_EN": "Venezuela",
+		"Kraj": "Wenezuela",
+		"Waluta": "USD",
+		"Kwota_diety": 60,
+		"Kwota_limitu_na_nocleg": 220,
+		"Code_ISO": "VE",
+		"CountryNames": "Wenezuela/Venezuela"
+	},
+	{
+		"id": 109,
+		"Country_EN": "Hungary",
+		"Kraj": "Węgry",
+		"Waluta": "EUR",
+		"Kwota_diety": 44,
+		"Kwota_limitu_na_nocleg": 143,
+		"Code_ISO": "HU",
+		"CountryNames": "Węgry/Hungary"
+	},
+	{
+		"id": 110,
+		"Country_EN": "Great Britain",
+		"Kraj": "Wielka Brytania",
+		"Waluta": "GBP",
+		"Kwota_diety": 45,
+		"Kwota_limitu_na_nocleg": 220,
+		"Code_ISO": "GB",
+		"CountryNames": "Wielka Brytania/Great Britain"
+	},
+	{
+		"id": 111,
+		"Country_EN": "Viet Nam",
+		"Kraj": "Wietnam",
+		"Waluta": "USD",
+		"Kwota_diety": 53,
+		"Kwota_limitu_na_nocleg": 160,
+		"Code_ISO": "VN",
+		"CountryNames": "Wietnam/Viet Nam"
+	},
+	{
+		"id": 112,
+		"Country_EN": "Italy",
+		"Kraj": "Włochy",
+		"Waluta": "EUR",
+		"Kwota_diety": 53,
+		"Kwota_limitu_na_nocleg": 192,
+		"Code_ISO": "IT",
+		"CountryNames": "Włochy/Italy"
+	},
+	{
+		"id": 113,
+		"Country_EN": "Ivory Coast",
+		"Kraj": "Wybrzeże Kości Słoniowej",
+		"Waluta": "EUR",
+		"Kwota_diety": 33,
+		"Kwota_limitu_na_nocleg": 100,
+		"Code_ISO": "CI",
+		"CountryNames": "Wybrzeże Kości Słoniowej/Ivory Coast"
+	},
+	{
+		"id": 114,
+		"Country_EN": "Zimbabwe",
+		"Kraj": "Zimbabwe",
+		"Waluta": "EUR",
+		"Kwota_diety": 39,
+		"Kwota_limitu_na_nocleg": 90,
+		"Code_ISO": "ZW",
+		"CountryNames": "Zimbabwe/Zimbabwe"
+	},
+	{
+		"id": 115,
+		"Country_EN": "United Arab Emirates",
+		"Kraj": "Zjednoczone Emiraty Arabskie",
+		"Waluta": "EUR",
+		"Kwota_diety": 43,
+		"Kwota_limitu_na_nocleg": 220,
+		"Code_ISO": "AE",
+		"CountryNames": "Zjednoczone Emiraty Arabskie/United Arab Emirates"
+	},
+	{
+		"id": 116,
+		"Country_EN": "other countries",
+		"Kraj": "Państwa inne niż wymienione w lp. 1-114",
+		"Waluta": "EUR",
+		"Kwota_diety": 41,
+		"Kwota_limitu_na_nocleg": 140,
+		"Code_ISO": "",
+		"CountryNames": "Państwa inne niż wymienione wyżej/ other countries"
+	}
+]

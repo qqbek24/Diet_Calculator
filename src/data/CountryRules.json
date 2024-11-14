@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "country": "Poland",
+    "shortTrip_less_8": 0,
+    "shortTrip_btween_8and12": 0.5,
+    "shortTrip_day": 1,
+    "longTrip_less_8": 0.5,
+    "longTrip_over_8": 1,
+    "breakfast": 0.25,
+    "dinner": 0.50,
+    "supper": 0.25
+  },
+  {
+    "id": 1,
+    "country": "other",
+    "shortTrip_less_8": 0.333333333,
+    "shortTrip_btween_8and12": 0.5,
+    "shortTrip_day": 1,
+    "longTrip_less_8": "",
+    "longTrip_over_8": "",
+    "breakfast": 0.15,
+    "dinner": 0.30,
+    "supper": 0.30
+  }
+]
