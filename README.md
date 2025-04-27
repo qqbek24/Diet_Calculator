@@ -1,6 +1,6 @@
 # Test App
 
-for how app looks and work, check address https://diet-calculator-f9462f47bf01.herokuapp.com/
+for how app looks and work, check address [Diet Calculator](https://diet-calculator-f9462f47bf01.herokuapp.com/)
 
 ## needed to install to create pdf (npm install:)
 
